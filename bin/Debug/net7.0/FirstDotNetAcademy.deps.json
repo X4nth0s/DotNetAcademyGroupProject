@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FirstDotNetAcademy/1.0.0": {
+        "runtime": {
+          "FirstDotNetAcademy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstDotNetAcademy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
