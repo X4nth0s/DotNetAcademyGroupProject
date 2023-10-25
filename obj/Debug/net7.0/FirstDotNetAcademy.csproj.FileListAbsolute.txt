@@ -12,3 +12,17 @@ C:\Users\claud\Desktop\FirstDotNetAcademy\obj\Debug\net7.0\refint\FirstDotNetAca
 C:\Users\claud\Desktop\FirstDotNetAcademy\obj\Debug\net7.0\FirstDotNetAcademy.pdb
 C:\Users\claud\Desktop\FirstDotNetAcademy\obj\Debug\net7.0\FirstDotNetAcademy.genruntimeconfig.cache
 C:\Users\claud\Desktop\FirstDotNetAcademy\obj\Debug\net7.0\ref\FirstDotNetAcademy.dll
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\bin\Debug\net7.0\FirstDotNetAcademy.exe
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\bin\Debug\net7.0\FirstDotNetAcademy.deps.json
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\bin\Debug\net7.0\FirstDotNetAcademy.runtimeconfig.json
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\bin\Debug\net7.0\FirstDotNetAcademy.dll
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\bin\Debug\net7.0\FirstDotNetAcademy.pdb
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.AssemblyInfoInputs.cache
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.AssemblyInfo.cs
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.dll
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\refint\FirstDotNetAcademy.dll
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.pdb
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\FirstDotNetAcademy.genruntimeconfig.cache
+C:\Users\Uni\Desktop\Umana Academy\DotNetAcademyGroupProject\obj\Debug\net7.0\ref\FirstDotNetAcademy.dll

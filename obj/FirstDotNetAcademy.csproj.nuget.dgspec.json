@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj": {}
+    "C:\\Users\\Uni\\Desktop\\Umana Academy\\DotNetAcademyGroupProject\\FirstDotNetAcademy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj": {
+    "C:\\Users\\Uni\\Desktop\\Umana Academy\\DotNetAcademyGroupProject\\FirstDotNetAcademy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj",
+        "projectUniqueName": "C:\\Users\\Uni\\Desktop\\Umana Academy\\DotNetAcademyGroupProject\\FirstDotNetAcademy.csproj",
         "projectName": "FirstDotNetAcademy",
-        "projectPath": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj",
-        "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\obj\\",
+        "projectPath": "C:\\Users\\Uni\\Desktop\\Umana Academy\\DotNetAcademyGroupProject\\FirstDotNetAcademy.csproj",
+        "packagesPath": "C:\\Users\\Uni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Uni\\Desktop\\Umana Academy\\DotNetAcademyGroupProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Uni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
