@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\claud\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Utente\\.nuget\\packages\\": {},
+    "S:\\Code community SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj",
+      "projectUniqueName": "S:\\Corso dot net vscode\\CloneCompito\\FirstDotNetAcademy.csproj",
       "projectName": "FirstDotNetAcademy",
-      "projectPath": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\FirstDotNetAcademy.csproj",
-      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claud\\Desktop\\FirstDotNetAcademy\\obj\\",
+      "projectPath": "S:\\Corso dot net vscode\\CloneCompito\\FirstDotNetAcademy.csproj",
+      "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+      "outputPath": "S:\\Corso dot net vscode\\CloneCompito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "S:\\Code community SDK\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
